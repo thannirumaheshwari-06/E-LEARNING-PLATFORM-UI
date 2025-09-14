@@ -52,3 +52,6 @@ The structure is modular, and all styles are scoped within a single <style> bloc
 
 In summary, E-Learnify is a lightweight yet visually rich front-end project that demonstrates interactive dashboard creation with pure web technologies. It is ideal for educational institutions, LMS prototypes, or as a portfolio project showcasing skills in UI development, JavaScript interactivity, and responsive design.
 
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7c41d8c3-e673-47db-a5b3-8f39f3688f46" />
