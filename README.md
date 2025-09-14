@@ -55,3 +55,5 @@ In summary, E-Learnify is a lightweight yet visually rich front-end project that
 #OUTPUT
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7c41d8c3-e673-47db-a5b3-8f39f3688f46" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9a00f7e7-6987-4634-bea6-87ccb97622d8" />
